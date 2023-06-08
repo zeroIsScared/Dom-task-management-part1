@@ -1,0 +1,8 @@
+1. Modify the Task class adding 'done' propetry which by default will be false
+2. Add the method "markedAsDone() in the Task class wich sets true in 'done'
+
+3. add method 'allDoneTasks()' in User class which returns an array  with only those tasks that have the proprety 'done' set as true;
+4. add method 'allPendingTasks()' in User class which returns an array  only those tasks that have the proprety 'done' set as false;
+
+
+5.add method 'unassignTasks(title)' in User class which will remove the task with this title
